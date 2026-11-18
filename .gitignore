@@ -1,0 +1,29 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python cache & compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+.conda/
+
+# Environment variables & secrets (API keys)
+.env
+
+# Large datasets & trained model weights (optional - uncomment if needed)
+# *.csv
+# *.parquet
+# *.pt
+# *.pth
+# *.onnx
+# *.h5
+
+# OS generated files
+.DS_Store
+Thumbs.db
