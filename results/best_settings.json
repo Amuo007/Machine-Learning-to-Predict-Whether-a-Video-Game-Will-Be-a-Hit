@@ -1,0 +1,27 @@
+{
+  "Decision Tree": {
+    "model__class_weight": "balanced",
+    "model__max_depth": null,
+    "model__min_samples_leaf": 5
+  },
+  "KNN": {
+    "model__n_neighbors": 3,
+    "model__weights": "uniform"
+  },
+  "Logistic Regression": {
+    "model__C": 1,
+    "model__class_weight": "balanced"
+  },
+  "Random Forest": {
+    "model__class_weight": "balanced",
+    "model__max_depth": 20,
+    "model__min_samples_leaf": 1
+  },
+  "Neural Network": {
+    "model__alpha": 0.001,
+    "model__early_stopping": false,
+    "model__hidden_layer_sizes": [
+      128
+    ]
+  }
+}

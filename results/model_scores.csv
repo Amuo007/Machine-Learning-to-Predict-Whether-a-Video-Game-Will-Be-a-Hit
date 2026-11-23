@@ -1,0 +1,7 @@
+Model,accuracy,precision,recall,f1,train_f1
+Random Forest,0.819,0.379,0.609,0.467,0.701
+Neural Network,0.865,0.478,0.381,0.423,0.771
+Logistic Regression,0.722,0.285,0.755,0.414,0.425
+Decision Tree,0.736,0.28,0.66,0.393,0.566
+KNN,0.818,0.339,0.424,0.376,0.632
+Baseline,0.87,0.0,0.0,0.0,0.0
